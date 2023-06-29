@@ -22,8 +22,8 @@ title: juno's tech blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my tech blog. This is where I upload interesting findings about technology and innovation. I am now focusing on new AI tech and cryptocurrency.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
